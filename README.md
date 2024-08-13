@@ -1,3 +1,14 @@
+คำสั่ง
+1 npm install ccxt axios tulind
+2 node app.js
+
+
+
+
+
+
+
+
 สนับสนุนค่ากาแฟ 🙏
 
 
